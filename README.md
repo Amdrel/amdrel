@@ -10,8 +10,7 @@ performant and resilient experiences that users can count on. I've had the oppor
 websites and services from marketing campaign landing pages to online ordering systems.
 
 If you want to see some of what I've done, then feel free to check out my [work
-experience](https://www.jamiekuppens.com/experience) or [side
-projects](https://www.jamiekuppens.com/projects).
+experience](https://www.jamiekuppens.com/experience).
 
 In my free time I am a D&D and RPG nerd that is seemingly incapable of playing anything that doesn't
 have pointy ears. In-particular I'm currently a very active World of Warcraft player raiding with my
