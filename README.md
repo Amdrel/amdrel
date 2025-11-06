@@ -13,5 +13,5 @@ If you want to see some of what I've done, then feel free to check out my [work
 experience](https://www.jamiekuppens.com/experience).
 
 In my free time I am a D&D and RPG nerd that is seemingly incapable of playing anything that doesn't
-have pointy ears. In-particular I'm currently a very active World of Warcraft player raiding with my
-guild every week killing bosses and getting loot.
+have pointy ears. I'm currently a very active World of Warcraft player raiding with my guild every
+week killing bosses and getting loot.
